@@ -3,3 +3,7 @@ targets = [ "//:range" ]
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-concept_check"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "branch=master"

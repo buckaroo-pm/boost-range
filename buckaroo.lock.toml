@@ -1,8 +1,12 @@
-manifest = "853865a43e993f64739a262a589d60b718c458d3cb8383fabbb3d527fe336c7b"
+manifest = "50f993247910c49811d0604ea9c144f36832f5dcdb12b26eb7ae3d175d777eeb"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-concept_check"
 target = "//:concept-check"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+target = "//:iterator"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -24,6 +28,10 @@ revision = "82480080750b32b3ef2e3f12157b5c556ae35c0d"
 versions = [ "branch=master" ]
 revision = "94aa5268c1a74468be94b40afd730aea1730ceab"
 
+[lock."github.com/buckaroo-pm/boost-iterator"]
+versions = [ "branch=master" ]
+revision = "c84fc34d0f6386edb15b0cb854a12864b6f15232"
+
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
 revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
@@ -31,6 +39,10 @@ revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
 revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+
+[lock."github.com/buckaroo-pm/boost-static_assert"]
+versions = [ "branch=master" ]
+revision = "4b9da4628bc69ad0e9b244d3ec885f2eadac95d8"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
