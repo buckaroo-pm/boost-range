@@ -1,4 +1,4 @@
-manifest = "4e942f118a15dfed5f5c0f6f3dab4f2c6f9428d952005f2835f3eb54929a58d5"
+manifest = "50f993247910c49811d0604ea9c144f36832f5dcdb12b26eb7ae3d175d777eeb"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-concept_check"
