@@ -30,7 +30,7 @@ revision = "e8b834a93f7ba935aa63a3d6690804f3bd2b0963"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
-revision = "427d132236d5048d64e3a861e29e943c13ce7059"
+revision = "6cf70fbf057ecbfec43013b7e39ef5011000798a"
 
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
