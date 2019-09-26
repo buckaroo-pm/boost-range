@@ -1,0 +1,9 @@
+targets = [ "//:range" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-concept_check"
+version = "1.54.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "1.54.0"
